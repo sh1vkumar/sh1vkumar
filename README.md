@@ -1,10 +1,8 @@
 -Hey! I'm Shiv
 
--Working in PwC as an Associate in Data Analytics
+-Cuurently I'm pursuing my Master's degree in Data analytics
 
--I'm interested in Python,Data Structures and Web Development
-
--I'm learning Java as of now, I want to improve in C++ too
+-I'm interested in Python,Data Structures and Business Intelligence
 
 -I just upload projects which I do in my free time
 
