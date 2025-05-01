@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shiv!</h1>
-<h3 align="center">**Data Engineer | Analytics Enthusiast | Builder of Practical Tools**</h3>
+<h3 align="center">Data Engineer | Analytics Enthusiast | Builder of Practical Tools</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sh1vkumar" alt="sh1vkumar" /></a> </p>
 
-- 🌱 I’m currently learning **dbt and Snowflake**
+- 🌱 I’m currently learning **dbt, Snowflake & cockroachdb**
 
-- 👨‍💻 All of my projects are available at [\href{https://www.datacamp.com/portfolio/shivsk}{\raisebox{-0.2\height}\faLink \hspace{0.03cm} \underline{Portfolio}}](\href{https://www.datacamp.com/portfolio/shivsk}{\raisebox{-0.2\height}\faLink \hspace{0.03cm} \underline{Portfolio}})
+- 👨‍💻 All of my projects are available at [\href{https://www.datacamp.com/portfolio/shivsk}{\raisebox{-0.2\height}\faLink\hspace{0.03cm}\underline{Portfolio}}](\href{https://www.datacamp.com/portfolio/shivsk}{\raisebox{-0.2\height}\faLink\hspace{0.03cm}\underline{Portfolio}})
 
 - 💬 Ask me about **Python, Power BI & SQL**
 
