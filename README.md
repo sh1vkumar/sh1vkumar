@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **dbt, Snowflake & cockroachdb**
 
-- 👨‍💻 All of my projects are available at [\href{https://www.datacamp.com/portfolio/shivsk}{\raisebox{-0.2\height}\faLink\hspace{0.03cm}\underline{Portfolio}}](\href{https://www.datacamp.com/portfolio/shivsk}{\raisebox{-0.2\height}\faLink\hspace{0.03cm}\underline{Portfolio}})
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.datacamp.com/portfolio/shivsk)
 
 - 💬 Ask me about **Python, Power BI & SQL**
 
